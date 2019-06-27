@@ -15,6 +15,12 @@ import org.springframework.web.bind.annotation.RequestMethod;
 
 import karn.springsecurity.services.EmployeeManager;
 
+
+/**
+ * @author Ashish Karn
+ * 
+ * EmployeeController class handles all input requests to Employee Module
+ * */
 @Controller
 public class EmployeeController {
 
